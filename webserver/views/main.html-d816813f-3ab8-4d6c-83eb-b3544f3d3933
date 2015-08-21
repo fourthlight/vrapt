@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <h1>VRApt Node</h1>
+    
+<FireBoxRoom>
+    <Assets>
+        <AssetObject id="lobby-model" src="../meshes/lobby-model.obj" tex0="../public/img/lobby-texture.png"/>
+        <AssetObject id="unit-model" src="../meshes/unit-model.obj" tex0="../public/img/unit-texture.png"/>
+        <AssetObject id="new-unit" src="../meshes/new-unit.obj" tex0="../public/img/new-unit-texture.png"/>
+        <AssetObject id="new-lobby" src="../meshes/new-lobby.obj" tex0="../public/img/new-lobby-texture.png"/>
+        <AssetScript src="../public/js/janus/experiment.js" />
+    </Assets>
+    <Room server="www.vrapt.xyz" port="5566" use_local_asset="room_plane" pos="0.000 0.000 0.000" xdir="-1.000 0.000 0.000" ydir="0.000 1.000 0.000" zdir="0.000 0.000 -1.000" col="1.000 1.000 1.000" near_dist="0.010" far_dist="1000.000">
+        <Object id="new-lobby" js_id="new-lobby-1" pos="0 2 -14" xdir="1 0 0" ydir="0 1 0" zdir="0 0 1" collision_id="new-lobby" />
+       
+<!--
+        <?php
+            $unitCounter = 1;
+            for($x=0; $x<=50; $x++){
+                print '<Object id="new-unit" js_id="new-unit-' . $unitCounter . '" pos="0 ' . (8*$unitCounter) . ' -14" xdir="1 0 0" ydir="0 1 0" zdir="0 0 1" collision_id="new-unit" />';
+                print '<Text id="unit-text" js_id="unit-text-' . $unitCounter . '" pos="0 ' . (8*$unitCounter+1) . ' -10" scale="2 2 2" col="#0000ff">Unit ' . $unitCounter . '</Text>';
+                $unitCounter++;
+            }      
+        ?>
+-->
+
+        <Object id="new-unit" js_id="new-unit-1" pos="0 4 -14" xdir="1 0 0" ydir="0 1 0" zdir="0 0 1" collision_id="new-unit" />
+        <Object id="new-unit" js_id="new-unit-2" pos="0 12 -14" xdir="1 0 0" ydir="0 1 0" zdir="0 0 1" collision_id="new-unit" />
+    </Room>
+</FireBoxRoom>
+    
+</body>
+</html>

@@ -1,0 +1,1012 @@
+------------- Restart -----------------info 22:25:06 server.js:179 Updating userlist
+info 22:25:06 server.js:55 Startup date/time: Mon Jun 29 2015 22:25:06 GMT-0400 (EDT)
+info 22:25:06 server.js:118 Webserver started on port: 8080
+info 22:25:06 server.js:69 Socket Server listening on port: 5566
+info 22:25:06 server.js:85 SSL Server listening on port: 5567
+info 22:29:56 server.js:128 Client connected 72.238.76.2
+info 22:29:56 src/Session.js:160 User: ericslaptop signed on
+info 22:30:06 server.js:179 Updating userlist
+info 22:34:20 server.js:128 Client connected 64.17.84.81
+info 22:34:22 src/Session.js:160 User: sirkitree signed on
+info 22:35:06 server.js:179 Updating userlist
+info 22:35:24 server.js:140 Client disconnected: 72.238.76.2
+info 22:36:49 server.js:140 Client disconnected: 64.17.84.81
+info 22:39:00 server.js:128 Client connected 64.17.84.81
+info 22:39:02 src/Session.js:160 User: sirkitree signed on
+info 22:40:06 server.js:179 Updating userlist
+info 22:40:36 server.js:128 Client connected 72.238.76.2
+info 22:40:36 src/Session.js:160 User: ericslaptop signed on
+info 22:44:11 server.js:140 Client disconnected: 64.17.84.81
+info 22:45:07 server.js:179 Updating userlist
+info 22:45:56 server.js:128 Client connected 72.238.76.2
+info 22:45:56 src/Session.js:160 User: RoughBasil541 signed on
+info 22:48:12 server.js:128 Client connected 64.17.84.81
+info 22:48:12 src/Session.js:160 User: sirkitree signed on
+info 22:50:06 server.js:140 Client disconnected: 64.17.84.81
+info 22:50:07 server.js:179 Updating userlist
+info 22:55:07 server.js:179 Updating userlist
+info 23:00:07 server.js:179 Updating userlist
+info 23:00:21 server.js:140 Client disconnected: 72.238.76.2
+info 23:05:07 server.js:179 Updating userlist
+info 23:10:07 server.js:179 Updating userlist
+ERR! 23:10:24 server.js:145 72.238.76.2
+ERR! 23:10:24 server.js:146 Error: read ECONNRESET
+ERR! 23:10:24 server.js:146     at errnoException (net.js:901:11)
+ERR! 23:10:24 server.js:146     at TCP.onread (net.js:556:19)
+ERR! 23:10:24 server.js:146  Socket error:  { [Error: read ECONNRESET] code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' }
+info 23:10:24 server.js:140 Client disconnected: 72.238.76.2
+info 23:15:07 server.js:179 Updating userlist
+info 23:20:07 server.js:179 Updating userlist
+info 23:25:07 server.js:179 Updating userlist
+info 23:30:07 server.js:179 Updating userlist
+info 23:35:07 server.js:179 Updating userlist
+------------- Restart -----------------info 23:40:12 server.js:179 Updating userlist
+info 23:40:12 server.js:55 Startup date/time: Mon Jun 29 2015 23:40:12 GMT-0400 (EDT)
+info 23:40:12 server.js:118 Webserver started on port: 8080
+info 23:40:12 server.js:69 Socket Server listening on port: 5566
+info 23:40:12 server.js:85 SSL Server listening on port: 5567
+info 23:45:12 server.js:179 Updating userlist
+info 23:50:12 server.js:179 Updating userlist
+info 23:55:12 server.js:179 Updating userlist
+info 00:00:12 server.js:179 Updating userlist
+info 00:05:12 server.js:179 Updating userlist
+info 00:10:12 server.js:179 Updating userlist
+info 00:15:12 server.js:179 Updating userlist
+info 00:20:12 server.js:179 Updating userlist
+info 00:20:30 server.js:128 Client connected 72.238.76.2
+info 00:20:30 src/Session.js:160 User: RoughBasil541 signed on
+info 00:25:12 server.js:179 Updating userlist
+info 00:30:12 server.js:179 Updating userlist
+info 00:35:12 server.js:179 Updating userlist
+info 00:40:12 server.js:179 Updating userlist
+info 00:45:12 server.js:179 Updating userlist
+info 00:47:13 server.js:140 Client disconnected: 72.238.76.2
+info 00:50:12 server.js:179 Updating userlist
+info 00:50:37 server.js:128 Client connected 71.193.6.7
+info 00:50:37 src/Session.js:160 User: Dizzket signed on
+info 00:55:12 server.js:179 Updating userlist
+info 01:00:12 server.js:179 Updating userlist
+info 01:05:13 server.js:179 Updating userlist
+info 01:10:13 server.js:179 Updating userlist
+info 01:15:13 server.js:179 Updating userlist
+info 01:20:13 server.js:179 Updating userlist
+info 01:25:13 server.js:179 Updating userlist
+info 01:30:13 server.js:179 Updating userlist
+info 01:35:13 server.js:179 Updating userlist
+info 01:36:54 server.js:128 Client connected 71.193.6.7
+info 01:36:54 src/Session.js:160 User: Dizuketo signed on
+ERR! 01:39:42 server.js:145 71.193.6.7
+ERR! 01:39:42 server.js:146 Error: read ECONNRESET
+ERR! 01:39:42 server.js:146     at errnoException (net.js:901:11)
+ERR! 01:39:42 server.js:146     at TCP.onread (net.js:556:19)
+ERR! 01:39:42 server.js:146  Socket error:  { [Error: read ECONNRESET] code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' }
+info 01:39:42 server.js:140 Client disconnected: 71.193.6.7
+info 01:40:13 server.js:179 Updating userlist
+info 01:45:13 server.js:179 Updating userlist
+info 01:50:13 server.js:179 Updating userlist
+info 01:55:13 server.js:179 Updating userlist
+info 02:00:14 server.js:179 Updating userlist
+info 02:02:34 server.js:128 Client connected 72.238.76.2
+info 02:02:35 src/Session.js:160 User: RoughBasil541 signed on
+info 02:05:14 server.js:179 Updating userlist
+info 02:05:38 server.js:140 Client disconnected: 72.238.76.2
+info 02:10:14 server.js:179 Updating userlist
+info 02:15:14 server.js:179 Updating userlist
+ERR! 02:19:06 server.js:145 71.193.6.7
+ERR! 02:19:06 server.js:146 Error: read ETIMEDOUT
+ERR! 02:19:06 server.js:146     at errnoException (net.js:901:11)
+ERR! 02:19:06 server.js:146     at TCP.onread (net.js:556:19)
+ERR! 02:19:06 server.js:146  Socket error:  { [Error: read ETIMEDOUT] code: 'ETIMEDOUT', errno: 'ETIMEDOUT', syscall: 'read' }
+info 02:19:06 server.js:140 Client disconnected: 71.193.6.7
+info 02:20:14 server.js:179 Updating userlist
+info 02:25:14 server.js:179 Updating userlist
+info 02:30:14 server.js:179 Updating userlist
+info 02:35:14 server.js:179 Updating userlist
+info 02:40:14 server.js:179 Updating userlist
+info 02:45:14 server.js:179 Updating userlist
+info 02:50:14 server.js:179 Updating userlist
+info 02:55:14 server.js:179 Updating userlist
+info 03:00:14 server.js:179 Updating userlist
+info 03:05:15 server.js:179 Updating userlist
+info 03:10:15 server.js:179 Updating userlist
+info 03:15:15 server.js:179 Updating userlist
+info 03:20:15 server.js:179 Updating userlist
+info 03:25:15 server.js:179 Updating userlist
+info 03:30:15 server.js:179 Updating userlist
+info 03:35:15 server.js:179 Updating userlist
+info 03:40:15 server.js:179 Updating userlist
+info 03:45:15 server.js:179 Updating userlist
+info 03:50:15 server.js:179 Updating userlist
+------------- Restart -----------------info 13:40:16 server.js:133 Updating userlist
+info 13:40:16 server.js:43 Startup date/time: Tue Jun 30 2015 13:40:16 GMT-0400 (EDT)
+info 13:40:16 server.js:84 Webserver started on port: 8080
+info 13:40:16 server.js:53 Socket Server listening on port: 5566
+info 13:40:16 server.js:64 SSL Server listening on port: 5567
+info 13:41:42 server.js:92 Client connected 72.238.76.2
+info 13:41:42 src/Session.js:119 User: RoughBasil541 signed on
+info 13:45:16 server.js:133 Updating userlist
+info 13:50:16 server.js:133 Updating userlist
+info 13:52:35 server.js:101 Client disconnected: 72.238.76.2
+info 13:52:43 server.js:92 Client connected 72.238.76.2
+info 13:52:43 src/Session.js:119 User: RoughBasil541 signed on
+info 13:52:45 server.js:101 Client disconnected: 72.238.76.2
+info 13:52:55 server.js:92 Client connected 72.238.76.2
+info 13:52:55 src/Session.js:119 User: RoughBasil541 signed on
+info 13:53:00 server.js:101 Client disconnected: 72.238.76.2
+info 13:53:26 server.js:92 Client connected 72.238.76.2
+info 13:53:26 src/Session.js:119 User: RoughBasil541 signed on
+info 13:53:28 server.js:101 Client disconnected: 72.238.76.2
+info 13:53:32 server.js:92 Client connected 72.238.76.2
+info 13:53:32 src/Session.js:119 User: RoughBasil541 signed on
+info 13:53:32 server.js:101 Client disconnected: 72.238.76.2
+info 13:53:36 server.js:92 Client connected 72.238.76.2
+info 13:53:36 src/Session.js:119 User: RoughBasil541 signed on
+info 13:53:38 server.js:101 Client disconnected: 72.238.76.2
+info 13:53:44 server.js:92 Client connected 72.238.76.2
+info 13:53:44 src/Session.js:119 User: RoughBasil541 signed on
+info 13:53:45 server.js:101 Client disconnected: 72.238.76.2
+info 13:54:40 server.js:92 Client connected 72.238.76.2
+info 13:54:40 src/Session.js:119 User: RoughBasil541 signed on
+info 13:55:16 server.js:133 Updating userlist
+info 14:00:16 server.js:133 Updating userlist
+info 14:05:16 server.js:133 Updating userlist
+info 14:08:41 server.js:92 Client connected 72.238.76.2
+info 14:08:42 src/Session.js:119 User: ericslaptop signed on
+info 14:09:47 server.js:101 Client disconnected: 72.238.76.2
+info 14:10:16 server.js:133 Updating userlist
+info 14:15:16 server.js:133 Updating userlist
+info 14:20:16 server.js:133 Updating userlist
+info 14:25:16 server.js:133 Updating userlist
+info 14:30:16 server.js:133 Updating userlist
+info 14:35:16 server.js:133 Updating userlist
+info 14:40:16 server.js:133 Updating userlist
+info 14:45:16 server.js:133 Updating userlist
+info 14:50:16 server.js:133 Updating userlist
+info 14:55:06 server.js:101 Client disconnected: 72.238.76.2
+info 14:55:16 server.js:133 Updating userlist
+info 14:55:54 server.js:92 Client connected 72.238.76.2
+info 14:55:54 src/Session.js:119 User: RoughBasil541 signed on
+info 14:59:20 server.js:101 Client disconnected: 72.238.76.2
+info 15:00:16 server.js:133 Updating userlist
+info 15:05:16 server.js:133 Updating userlist
+info 15:10:17 server.js:133 Updating userlist
+info 15:15:17 server.js:133 Updating userlist
+info 15:20:17 server.js:133 Updating userlist
+info 15:25:17 server.js:133 Updating userlist
+info 15:30:17 server.js:133 Updating userlist
+info 15:35:17 server.js:133 Updating userlist
+info 15:40:17 server.js:133 Updating userlist
+info 15:45:17 server.js:133 Updating userlist
+info 15:50:17 server.js:133 Updating userlist
+------------- Restart -----------------info 17:29:26 server.js:133 Updating userlist
+info 17:29:26 server.js:43 Startup date/time: Tue Jun 30 2015 17:29:26 GMT-0400 (EDT)
+info 17:29:26 server.js:84 Webserver started on port: 8080
+info 17:29:26 server.js:53 Socket Server listening on port: 5566
+info 17:29:26 server.js:64 SSL Server listening on port: 5567
+info 17:29:54 server.js:92 Client connected 72.238.76.2
+info 17:29:54 src/Session.js:119 User: RoughBasil541 signed on
+info 17:34:26 server.js:133 Updating userlist
+info 17:39:26 server.js:133 Updating userlist
+info 17:44:26 server.js:133 Updating userlist
+info 17:49:26 server.js:133 Updating userlist
+info 17:54:26 server.js:133 Updating userlist
+info 17:59:26 server.js:133 Updating userlist
+info 18:04:26 server.js:133 Updating userlist
+info 18:09:26 server.js:133 Updating userlist
+info 18:14:26 server.js:133 Updating userlist
+info 18:19:26 server.js:133 Updating userlist
+ERR! 18:20:21 server.js:105 72.238.76.2
+ERR! 18:20:21 server.js:106 Error: read ECONNRESET
+ERR! 18:20:21 server.js:106     at errnoException (net.js:901:11)
+ERR! 18:20:21 server.js:106     at TCP.onread (net.js:556:19)
+ERR! 18:20:21 server.js:106  Socket error:  { [Error: read ECONNRESET] code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' }
+info 18:20:21 server.js:101 Client disconnected: 72.238.76.2
+info 18:24:26 server.js:133 Updating userlist
+info 18:29:26 server.js:133 Updating userlist
+info 18:34:26 server.js:133 Updating userlist
+info 18:39:26 server.js:133 Updating userlist
+info 18:44:26 server.js:133 Updating userlist
+info 18:49:27 server.js:133 Updating userlist
+info 18:54:27 server.js:133 Updating userlist
+info 18:59:27 server.js:133 Updating userlist
+info 19:04:27 server.js:133 Updating userlist
+------------- Restart -----------------info 19:08:11 server.js:133------------- Restart -----------------info 19:08:28 server.js:133 Updating userlist
+info 19:08:55 server.js:92 Client connected 72.238.76.2
+info 19:08:55 src/Session.js:119 User: RoughBasil541 signed on
+info 19:09:27 server.js:133 Updating userlist
+info 19:12:46 server.js:92 Client connected 96.59.217.185
+info 19:12:46 src/Session.js:119 User: Gizemo signed on
+ERR! 19:13:07 server.js:105 96.59.217.185
+ERR! 19:13:07 server.js:106 Error: read ECONNRESET
+ERR! 19:13:07 server.js:106     at errnoException (net.js:901:11)
+ERR! 19:13:07 server.js:106     at TCP.onread (net.js:556:19)
+ERR! 19:13:07 server.js:106  Socket error:  { [Error: read ECONNRESET] code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' }
+info 19:13:07 server.js:101 Client disconnected: 96.59.217.185
+ERR! 19:13:17 server.js:105 72.238.76.2
+ERR! 19:13:17 server.js:106 Error: read ECONNRESET
+ERR! 19:13:17 server.js:106     at errnoException (net.js:901:11)
+ERR! 19:13:17 server.js:106     at TCP.onread (net.js:556:19)
+ERR! 19:13:17 server.js:106  Socket error:  { [Error: read ECONNRESET] code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' }
+info 19:13:17 server.js:101 Client disconnected: 72.238.76.2
+info 19:14:09 server.js:92 Client connected 72.238.76.2
+info 19:14:09 src/Session.js:119 User: RoughBasil541 signed on
+info 19:14:10 server.js:92 Client connected 50.135.43.209
+info 19:14:10 src/Session.js:119 User: AdultMaskMan signed on
+info 19:14:27 server.js:133 Updating userlist
+ERR! 19:15:43 server.js:105 50.135.43.209
+ERR! 19:15:43 server.js:106 Error: read ECONNRESET
+ERR! 19:15:43 server.js:106     at errnoException (net.js:901:11)
+ERR! 19:15:43 server.js:106     at TCP.onread (net.js:556:19)
+ERR! 19:15:43 server.js:106  Socket error:  { [Error: read ECONNRESET] code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' }
+info 19:15:43 server.js:101 Client disconnected: 50.135.43.209
+ERR! 19:17:15 server.js:105 72.238.76.2
+ERR! 19:17:15 server.js:106 Error: read ECONNRESET
+ERR! 19:17:15 server.js:106     at errnoException (net.js:901:11)
+ERR! 19:17:15 server.js:106     at TCP.onread (net.js:556:19)
+ERR! 19:17:15 server.js:106  Socket error:  { [Error: read ECONNRESET] code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' }
+info 19:17:15 server.js:101 Client disconnected: 72.238.76.2
+info 19:17:38 server.js:92 Client connected 72.238.76.2
+info 19:17:38 src/Session.js:119 User: RoughBasil541 signed on
+info 19:19:27 server.js:133 Updating userlist
+info 19:24:27 server.js:133 Updating userlist
+ERR! 19:24:30 server.js:105 72.238.76.2
+ERR! 19:24:30 server.js:106 Error: read ECONNRESET
+ERR! 19:24:30 server.js:106     at errnoException (net.js:901:11)
+ERR! 19:24:30 server.js:106     at TCP.onread (net.js:556:19)
+ERR! 19:24:30 server.js:106  Socket error:  { [Error: read ECONNRESET] code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' }
+info 19:24:30 server.js:101 Client disconnected: 72.238.76.2
+info 19:29:27 server.js:133 Updating userlist
+info 19:34:27 server.js:133 Updating userlist
+info 19:39:27 server.js:133 Updating userlist
+------------- Restart -----------------info 12:52:56 server.js:133 Updating userlist
+info 12:52:56 server.js:43 Startup date/time: Wed Jul 01 2015 12:52:56 GMT-0400 (EDT)
+info 12:52:56 server.js:84 Webserver started on port: 8080
+info 12:52:56 server.js:53 Socket Server listening on port: 5566
+info 12:52:56 server.js:64 SSL Server listening on port: 5567
+info 12:54:24 server.js:92 Client connected 72.238.76.2
+info 12:54:24 src/Session.js:119 User: RoughBasil541 signed on
+info 12:57:56 server.js:133 Updating userlist
+info 12:58:24 server.js:101 Client disconnected: 72.238.76.2
+info 12:59:43 server.js:92 Client connected 72.238.76.2
+info 12:59:44 src/Session.js:119 User: RoughBasil541 signed on
+info 13:02:57 server.js:133 Updating userlist
+info 13:04:50 server.js:101 Client disconnected: 72.238.76.2
+info 13:07:57 server.js:133 Updating userlist
+info 13:12:57 server.js:133 Updating userlist
+info 13:13:23 server.js:92 Client connected 72.238.76.2
+info 13:13:23 src/Session.js:119 User: ericslaptop signed on
+info 13:13:42 server.js:92 Client connected 72.238.76.2
+info 13:13:42 src/Session.js:119 User: RoughBasil541 signed on
+info 13:17:57 server.js:133 Updating userlist
+ERR! 13:18:51 server.js:105 72.238.76.2
+ERR! 13:18:51 server.js:106 Error: read ECONNRESET
+ERR! 13:18:51 server.js:106     at errnoException (net.js:901:11)
+ERR! 13:18:51 server.js:106     at TCP.onread (net.js:556:19)
+ERR! 13:18:51 server.js:106  Socket error:  { [Error: read ECONNRESET] code: 'ECONNRESET', errno: 'ECONNRESET', syscall: 'read' }
+info 13:18:51 server.js:101 Client disconnected: 72.238.76.2
+info 13:22:57 server.js:133 Updating userlist
+info 13:27:57 server.js:133 Updating userlist
+info 13:32:57 server.js:133 Updating userlist
+info 13:35:28 server.js:101 Client disconnected: 72.238.76.2
+info 13:37:57 server.js:133 Updating userlist
+info 13:42:57 server.js:133 Updating userlist
+info 13:47:57 server.js:133 Updating userlist
+info 13:52:58 server.js:133 Updating userlist
+info 13:57:58 server.js:133 Updating userlist
+info 14:02:58 server.js:133 Updating userlist
+info 14:07:58 server.js:133 Updating userlist
+info 14:12:58 server.js:133 Updating userlist
+info 14:17:58 server.js:133 Updating userlist
+info 14:22:58 server.js:133 Updating userlist
+info 14:27:58 server.js:133 Updating userlist
+info 14:32:58 server.js:133 Updating userlist
+info 14:37:58 server.js:133 Updating userlist
+info 14:42:58 server.js:133 Updating userlist
+info 14:47:59 server.js:133 Updating userlist
+info 14:52:59 server.js:133 Updating userlist
+info 14:57:59 server.js:133 Updating userlist
+info 15:02:59 server.js:133 Updating userlist
+info 15:07:59 server.js:133 Updating userlist
+info 15:12:59 server.js:133 Updating userlist
+info 15:17:59 server.js:133 Updating userlist
+info 15:22:59 server.js:133 Updating userlist
+info 15:27:59 server.js:133 Updating userlist
+info 15:32:59 server.js:133 Updating userlist
+------------- Restart -----------------info 13:06:36 server.js:133 Updating userlist
+info 13:06:36 server.js:43 Startup date/time: Fri Jul 03 2015 13:06:36 GMT-0400 (EDT)
+info 13:06:36 server.js:84 Webserver started on port: 8080
+info 13:06:36 server.js:53 Socket Server listening on port: 5566
+info 13:06:36 server.js:64 SSL Server listening on port: 5567
+info 13:11:36 server.js:133 Updating userlist
+info 13:16:36 server.js:133 Updating userlist
+info 13:21:36 server.js:133 Updating userlist
+info 13:26:36 server.js:133 Updating userlist
+info 13:31:36 server.js:133 Updating userlist
+info 13:36:36 server.js:133 Updating userlist
+info 13:41:37 server.js:133 Updating userlist
+info 13:46:37 server.js:133 Updating userlist
+info 13:51:37 server.js:133 Updating userlist
+info 13:56:37 server.js:133 Updating userlist
+info 14:01:37 server.js:133 Updating userlist
+info 14:06:37 server.js:133 Updating userlist
+info 14:11:37 server.js:133 Updating userlist
+info 14:16:37 server.js:133 Updating userlist
+info 14:21:37 server.js:133 Updating userlist
+info 14:26:37 server.js:133 Updating userlist
+info 14:31:37 server.js:133 Updating userlist
+info 14:36:37 server.js:133 Updating userlist
+info 14:41:37 server.js:133 Updating userlist
+info 14:46:37 server.js:133 Updating userlist
+info 14:51:37 server.js:133 Updating userlist
+info 14:56:38 server.js:133 Updating userlist
+info 15:01:38 server.js:133 Updating userlist
+info 15:06:38 server.js:133 Updating userlist
+info 15:11:38 server.js:133 Updating userlist
+info 15:16:38 server.js:133 Updating userlist
+info 15:21:38 server.js:133 Updating userlist
+info 15:26:38 server.js:133 Updating userlist
+info 15:31:38 server.js:133 Updating userlist
+info 15:36:38 server.js:133 Updating userlist
+info 15:41:38 server.js:133 Updating userlist
+info 15:46:38 server.js:133 Updating userlist
+info 15:51:38 server.js:133 Updating userlist
+info 15:56:38 server.js:133 Updating userlist
+info 16:01:39 server.js:133 Updating userlist
+info 16:06:39 server.js:133 Updating userlist
+info 16:11:39 server.js:133 Updating userlist
+info 16:16:39 server.js:133 Updating userlist
+info 16:21:39 server.js:133 Updating userlist
+info 16:26:39 server.js:133 Updating userlist
+info 16:31:39 server.js:133 Updating userlist
+info 16:36:39 server.js:133 Updating userlist
+info 16:41:39 server.js:133 Updating userlist
+info 16:46:39 server.js:133 Updating userlist
+info 16:51:39 server.js:133 Updating userlist
+info 16:56:39 server.js:133 Updating userlist
+info 17:01:39 server.js:133 Updating userlist
+info 17:06:40 server.js:133 Updating userlist
+info 17:11:40 server.js:133 Updating userlist
+info 17:16:40 server.js:133 Updating userlist
+info 17:21:40 server.js:133 Updating userlist
+info 17:26:40 server.js:133 Updating userlist
+info 17:31:40 server.js:133 Updating userlist
+info 17:36:40 server.js:133 Updating userlist
+info 17:41:40 server.js:133 Updating userlist
+info 17:46:40 server.js:133 Updating userlist
+info 17:51:40 server.js:133 Updating userlist
+info 17:56:40 server.js:133 Updating userlist
+info 18:01:40 server.js:133 Updating userlist
+info 18:06:40 server.js:133 Updating userlist
+info 18:11:41 server.js:133 Updating userlist
+info 18:16:41 server.js:133 Updating userlist
+info 18:21:41 server.js:133 Updating userlist
+info 18:26:41 server.js:133 Updating userlist
+info 18:31:41 server.js:133 Updating userlist
+info 18:36:41 server.js:133 Updating userlist
+info 18:41:41 server.js:133 Updating userlist
+info 18:46:41 server.js:133 Updating userlist
+info 18:51:41 server.js:133 Updating userlist
+info 18:56:41 server.js:133 Updating userlist
+info 19:01:41 server.js:133 Updating userlist
+info 19:06:41 server.js:133 Updating userlist
+info 19:11:41 server.js:133 Updating userlist
+info 19:16:42 server.js:133 Updating userlist
+info 19:21:42 server.js:133 Updating userlist
+info 19:26:42 server.js:133 Updating userlist
+info 19:31:42 server.js:133 Updating userlist
+info 19:36:42 server.js:133 Updating userlist
+info 19:41:42 server.js:133 Updating userlist
+info 19:46:42 server.js:133 Updating userlist
+info 19:51:42 server.js:133 Updating userlist
+info 19:56:42 server.js:133 Updating userlist
+info 20:01:42 server.js:133 Updating userlist
+info 20:06:42 server.js:133 Updating userlist
+info 20:11:42 server.js:133 Updating userlist
+info 20:16:42 server.js:133 Updating userlist
+info 20:21:42 server.js:133 Updating userlist
+info 20:26:43 server.js:133 Updating userlist
+info 20:31:43 server.js:133 Updating userlist
+info 20:36:43 server.js:133 Updating userlist
+info 20:41:43 server.js:133 Updating userlist
+info 20:46:43 server.js:133 Updating userlist
+info 20:51:43 server.js:133 Updating userlist
+info 20:56:43 server.js:133 Updating userlist
+info 21:01:43 server.js:133 Updating userlist
+info 21:06:43 server.js:133 Updating userlist
+info 21:11:43 server.js:133 Updating userlist
+info 21:16:43 server.js:133 Updating userlist
+info 21:21:43 server.js:133 Updating userlist
+info 21:26:44 server.js:133 Updating userlist
+info 21:31:44 server.js:133 Updating userlist
+info 21:36:44 server.js:133 Updating userlist
+info 21:41:44 server.js:133 Updating userlist
+info 21:46:44 server.js:133 Updating userlist
+info 21:51:44 server.js:133 Updating userlist
+info 21:56:44 server.js:133 Updating userlist
+info 22:01:44 server.js:133 Updating userlist
+info 22:06:44 server.js:133 Updating userlist
+info 22:11:44 server.js:133 Updating userlist
+info 22:16:44 server.js:133 Updating userlist
+info 22:21:44 server.js:133 Updating userlist
+info 22:26:44 server.js:133 Updating userlist
+info 22:31:44 server.js:133 Updating userlist
+info 22:36:45 server.js:133 Updating userlist
+info 22:41:45 server.js:133 Updating userlist
+info 22:46:45 server.js:133 Updating userlist
+info 22:51:45 server.js:133 Updating userlist
+info 22:56:45 server.js:133 Updating userlist
+info 23:01:45 server.js:133 Updating userlist
+info 23:06:45 server.js:133 Updating userlist
+info 23:11:45 server.js:133 Updating userlist
+info 23:16:45 server.js:133 Updating userlist
+info 23:21:45 server.js:133 Updating userlist
+info 23:26:45 server.js:133 Updating userlist
+info 23:31:45 server.js:133 Updating userlist
+info 23:36:45 server.js:133 Updating userlist
+info 23:41:46 server.js:133 Updating userlist
+info 23:46:46 server.js:133 Updating userlist
+info 23:51:46 server.js:133 Updating userlist
+info 23:56:46 server.js:133 Updating userlist
+info 00:01:46 server.js:133 Updating userlist
+info 00:06:46 server.js:133 Updating userlist
+info 00:11:46 server.js:133 Updating userlist
+info 00:16:46 server.js:133 Updating userlist
+info 00:21:46 server.js:133 Updating userlist
+info 00:26:46 server.js:133 Updating userlist
+info 00:31:46 server.js:133 Updating userlist
+info 00:36:46 server.js:133 Updating userlist
+info 00:41:46 server.js:133 Updating userlist
+info 00:46:47 server.js:133 Updating userlist
+info 00:51:47 server.js:133 Updating userlist
+info 00:56:47 server.js:133 Updating userlist
+info 01:01:47 server.js:133 Updating userlist
+info 01:06:47 server.js:133 Updating userlist
+info 01:11:47 server.js:133 Updating userlist
+------------- Restart -----------------info 08:08:24 server.js:133 Updating userlist
+info 08:08:24 server.js:43 Startup date/time: Mon Aug 17 2015 08:08:24 GMT-0400 (EDT)
+info 08:08:24 server.js:84 Webserver started on port: 8080
+info 08:08:24 server.js:53 Socket Server listening on port: 5566
+info 08:08:24 server.js:64 SSL Server listening on port: 5567
+------------- Restart -----------------info 08:10:58 server.js:245 Updating userlist
+info 08:10:58 server.js:117 Start time: Mon Aug 17 2015 08:10:58 GMT-0400 (EDT)
+info 08:10:58 server.js:171 Webserver started on port: 8080
+info 08:10:58 server.js:130 Socket Server listening on port: 5566
+info 08:10:58 server.js:142 SSL Server listening on port: 5567
+------------- Restart -----------------info 08:30:03 server.js:245 Updating userlist
+info 08:30:03 server.js:117 Start time: Mon Aug 17 2015 08:30:03 GMT-0400 (EDT)
+info 08:30:03 server.js:171 Webserver started on port: 8080
+info 08:30:03 server.js:130 Socket Server listening on port: 5566
+info 08:30:03 server.js:142 SSL Server listening on port: 5567
+------------- Restart -----------------info 08:30:18 server.js:245 Updating userlist
+info 08:30:18 server.js:117 Start time: Mon Aug 17 2015 08:30:18 GMT-0400 (EDT)
+info 08:30:18 server.js:171 Webserver started on port: 8080
+info 08:30:18 server.js:130 Socket Server listening on port: 5566
+info 08:30:18 server.js:142 SSL Server listening on port: 5567
+------------- Restart -----------------info 08:32:19 server.js:245------------- Restart -----------------info 08:33:30 server.js:245 Updating userlist
+info 08:33:30 server.js:117 Start time: Mon Aug 17 2015 08:33:30 GMT-0400 (EDT)
+info 08:33:30 server.js:171 Webserver started on port: 8080
+info 08:33:30 server.js:130 Socket Server listening on port: 5566
+info 08:33:30 server.js:142 SSL Server listening on port: 5567
+------------- Restart -----------------info 08:33:51 server.js:245 Updating userlist
+info 08:33:51 server.js:117 Start time: Mon Aug 17 2015 08:33:51 GMT-0400 (EDT)
+info 08:33:52 server.js:171 Webserver started on port: 8080
+info 08:33:52 server.js:130 Socket Server listening on port: 5566
+info 08:33:52 server.js:142 SSL Server listening on port: 5567
+info 08:38:51 server.js:245 Updating userlist
+------------- Restart -----------------info 09:08:46 server.js:245 Updating userlist
+info 09:08:46 server.js:117 Start time: Mon Aug 17 2015 09:08:46 GMT-0400 (EDT)
+info 09:08:46 server.js:171 Webserver started on port: 8080
+info 09:08:46 server.js:130 Socket Server listening on port: 5566
+info 09:08:46 server.js:142 SSL Server listening on port: 5567
+------------- Restart -----------------info 09:45:22 server.js:245 Updating userlist
+info 09:45:22 server.js:117 Start time: Mon Aug 17 2015 09:45:22 GMT-0400 (EDT)
+info 09:45:22 server.js:171 Webserver started on port: 8080
+info 09:45:22 server.js:130 Socket Server listening on port: 5566
+info 09:45:22 server.js:142 SSL Server listening on port: 5567
+------------- Restart -----------------info ------------- Restart -----------------info 10:05:04 server.js:245 Updating userlist
+info 10:05:04 server.js:117 Start time: Mon Aug 17 2015 10:05:04 GMT-0400 (EDT)
+info 10:05:04 server.js:171 Webserver started on port: 8080
+info 10:05:04 server.js:130 Socket Server listening on port: 5566
+info 10:05:04 server.js:142 SSL Server listening on port: 5567
+info 10:09:27 server.js:183 Client connected 72.238.76.2
+ERR! 10:09:27 src/Session.js:60 Uncaught exception log is not defined
+------------- Restart -----------------info 10:09:28 server.js:245 Updating userlist
+info 10:09:28 server.js:117 Start time: Mon Aug 17 2015 10:09:28 GMT-0400 (EDT)
+info 10:09:28 server.js:171 Webserver started on port: 8080
+info 10:09:28 server.js:130 Socket Server listening on port: 5566
+info 10:09:28 server.js:142 SSL Server listening on port: 5567
+info 10:09:28 server.js:183 Client connected 72.238.76.2
+ERR! 10:09:28 src/Session.js:119 Uncaught exception log is not defined
+------------- Restart -----------------info 10:11:37 server.js:245 Updating userlist
+info 10:11:37 server.js:117 Start time: Mon Aug 17 2015 10:11:37 GMT-0400 (EDT)
+info 10:11:37 server.js:171 Webserver started on port: 8080
+info 10:11:37 server.js:130 Socket Server listening on port: 5566
+info 10:11:37 server.js:142 SSL Server listening on port: 5567
+------------- Restart -----------------info 10:11:51 server.js:245 Updating userlist
+info 10:11:51 server.js:117 Start time: Mon Aug 17 2015 10:11:51 GMT-0400 (EDT)
+info 10:11:51 server.js:171 Webserver started on port: 8080
+info 10:11:51 server.js:130 Socket Server listening on port: 5566
+info 10:11:51 server.js:142 SSL Server listening on port: 5567
+info 10:12:08 server.js:183 Client connected 72.238.76.2
+ERR! 10:12:08 src/Session.js:60 Uncaught exception log is not defined
+------------- Restart -----------------info 10:12:08 server.js:245 Updating userlist
+info 10:12:08 server.js:117 Start time: Mon Aug 17 2015 10:12:08 GMT-0400 (EDT)
+info 10:12:08 server.js:171 Webserver started on port: 8080
+info 10:12:08 server.js:130 Socket Server listening on port: 5566
+info 10:12:08 server.js:142 SSL Server listening on port: 5567
+info 10:12:09 server.js:183 Client connected 72.238.76.2
+ERR! 10:12:09 src/Session.js:119 Uncaught exception log is not defined
+------------- Restart -----------------info 10:18:53 server.js:245 Updating userlist
+info 10:18:53 server.js:117 Start time: Mon Aug 17 2015 10:18:53 GMT-0400 (EDT)
+info 10:18:53 server.js:171 Webserver started on port: 8080
+info 10:18:53 server.js:130 Socket Server listening on port: 5566
+info 10:18:53 server.js:142 SSL Server listening on port: 5567
+info 10:21:40 server.js:183 Client connected 72.238.76.2
+ERR! 10:21:40 src/Session.js:60 Uncaught exception log is not defined
+------------- Restart -----------------info 10:29:00 server.js:245 Updating userlist
+info 10:29:00 server.js:117 Start time: Mon Aug 17 2015 10:29:00 GMT-0400 (EDT)
+info 10:29:00 server.js:171 Webserver started on port: 8080
+info 10:29:00 server.js:130 Socket Server listening on port: 5566
+info 10:29:00 server.js:142 SSL Server listening on port: 5567
+------------- Restart -----------------info 10:29:24 server.js:245 Updating userlist
+------------- Restart -----------------info 10:29:34 server.js:245 Updating userlist
+info 10:29:34 server.js:117 Start time: Mon Aug 17 2015 10:29:34 GMT-0400 (EDT)
+info 10:29:34 server.js:171 Webserver started on port: 8080
+info 10:29:34 server.js:130 Socket Server listening on port: 5566
+info 10:29:34 server.js:142 SSL Server listening on port: 5567
+------------- Restart -----------------info 10:31:12 server.js:245------------- Restart -----------------info 10:32:37 server.js:245 Updating userlist
+info 10:32:37 server.js:117 Start time: Mon Aug 17 2015 10:32:37 GMT-0400 (EDT)
+info 10:32:37 server.js:171 Webserver started on port: 8080
+info 10:32:37 server.js:130 Socket Server listening on port: 5566
+info 10:32:37 server.js:142 SSL Server listening on port: 5567
+info 10:32:59 server.js:183 Client connected 72.238.76.2
+info 10:32:59 server.js:198 Client disconnected: 72.238.76.2
+------------- Restart -----------------info 10:33:30 server.js:245 Updating userlist
+info 10:33:30 server.js:117 Start time: Mon Aug 17 2015 10:33:30 GMT-0400 (EDT)
+info 10:33:31 server.js:171 Webserver started on port: 8080
+info 10:33:31 server.js:130 Socket Server listening on port: 5566
+info 10:33:31 server.js:142 SSL Server listening on port: 5567
+info 10:33:37 server.js:183 Client connected 72.238.76.2
+ERR! 10:33:37 src/Session.js:60 Uncaught exception log is not defined
+------------- Restart -----------------info 10:34:01 server.js:245 Updating userlist
+info 10:34:01 server.js:117 Start time: Mon Aug 17 2015 10:34:01 GMT-0400 (EDT)
+info 10:34:01 server.js:171 Webserver started on port: 8080
+info 10:34:01 server.js:130 Socket Server listening on port: 5566
+info 10:34:01 server.js:142 SSL Server listening on port: 5567
+info 10:34:22 server.js:183 Client connected 72.238.76.2
+ERR! 10:34:22 src/Session.js:60 Uncaught exception log is not defined
+------------- Restart -----------------ERR! 10:35:47 module.js:338 Uncaught exception Cannot find module './src/Plugins'
+------------- Restart -----------------ERR! 10:35:55 module.js:338 Uncaught exception Cannot find module './src/Plugins'
+------------- Restart -----------------ERR! 10:36:31 server.js:69 Uncaught exception Plugins is not defined
+------------- Restart -----------------info 10:37:00 server.js:245 Updating userlist
+info 10:37:00 server.js:117 Start time: Mon Aug 17 2015 10:37:00 GMT-0400 (EDT)
+info 10:37:00 server.js:171 Webserver started on port: 8080
+info 10:37:00 server.js:130 Socket Server listening on port: 5566
+info 10:37:00 server.js:142 SSL Server listening on port: 5567
+------------- Restart -----------------info 10:38:06 server.js:245 Updating userlist
+info 10:38:06 server.js:117 Start time: Mon Aug 17 2015 10:38:06 GMT-0400 (EDT)
+info 10:38:06 server.js:171 Webserver started on port: 8080
+info 10:38:06 server.js:130 Socket Server listening on port: 5566
+info 10:38:06 server.js:142 SSL Server listening on port: 5567
+------------- Restart -----------------info 10:39:27 server.js:245 Updating userlist
+info 10:39:27 server.js:117 Start time: Mon Aug 17 2015 10:39:27 GMT-0400 (EDT)
+info 10:39:27 server.js:171 Webserver started on port: 8080
+info 10:39:27 server.js:130 Socket Server listening on port: 5566
+info 10:39:27 server.js:142 SSL Server listening on port: 5567
+info 10:39:50 server.js:183 Client connected 72.238.76.2
+ERR! 10:39:50 src/Session.js:60 Uncaught exception log is not defined
+------------- Restart -----------------info 10:40:29 server.js:245 Updating userlist
+info 10:40:29 server.js:117 Start time: Mon Aug 17 2015 10:40:29 GMT-0400 (EDT)
+info 10:40:29 server.js:171 Webserver started on port: 8080
+info 10:40:29 server.js:130 Socket Server listening on port: 5566
+info 10:40:29 server.js:142 SSL Server listening on port: 5567
+info 10:40:29 server.js:183 Client connected undefined
+info------------- Restart -----------------info 10:40:39 server.js:245 Updating userlist
+info 10:40:39 server.js:117 Start time: Mon Aug 17 2015 10:40:39 GMT-0400 (EDT)
+info 10:40:39 server.js:171 Webserver started on port: 8080
+info 10:40:39 server.js:130 Socket Server listening on port: 5566
+info 10:40:39 server.js:142 SSL Server listening on port: 5567
+info 10:40:50 server.js:183 Client connected 72.238.76.2
+ERR! 10:40:50 src/Session.js:60 Uncaught exception log is not defined
+------------- Restart -----------------info 10:43:15 server.js:245 Updating userlist
+info 10:43:15 server.js:117 Start time: Mon Aug 17 2015 10:43:15 GMT-0400 (EDT)
+info 10:43:15 server.js:171 Webserver started on port: 8080
+info 10:43:15 server.js:130 Socket Server listening on port: 5566
+info 10:43:15 server.js:142 SSL Server listening on port: 5567
+info 10:43:39 server.js:183 Client connected 72.238.76.2
+info 10:43:39 src/Session.js:60 data:   ������ю����ʏXa��[i8����jt�  v�0�,�(�$��
+info 10:43:39 src/Session.js:61 payload: undefined
+ERR! 10:43:39 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:43:39 src/Session.js:60 data:  � � k j 9 8 � ��2�.�*�&�� � = 5 ��/�+�'�#��	 � � g @ 3 2 � � E D�1�-�)�%�� � < / � A ����   � ]    
+info 10:43:39 src/Session.js:61 payload: undefined
+ERR! 10:43:39 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:43:39 src/Session.js:60 data:  4 2  
+info 10:43:39 src/Session.js:61 payload: undefined
+ERR! 10:43:39 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:43:39 src/Session.js:60 data:      	 
+info 10:43:39 src/Session.js:61 payload: undefined
+ERR! 10:43:39 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:43:39 src/Session.js:60 data:                   #   
+info 10:43:39 src/Session.js:61 payload: undefined
+ERR! 10:43:39 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:43:39 src/Session.js:60 data:        �                                                                                                                                                                                                                                            
+info 10:43:39 src/Session.js:61 payload: undefined
+ERR! 10:43:39 src/Session.js:36 Client error (undefined, Unnamed): Unable to parse last message
+ERR! 10:43:39 server.js:205 72.238.76.2
+ERR! 10:43:39 server.js:206 Error: This socket has been ended by the other party
+ERR! 10:43:39 server.js:206     at Socket.writeAfterFIN [as write] (net.js:276:12)
+ERR! 10:43:39 server.js:206     at Session.send (/home/presence/src/Session.js:32:18)
+ERR! 10:43:39 server.js:206     at Session.clientError (/home/presence/src/Session.js:38:10)
+ERR! 10:43:39 server.js:206     at Session.parseMessage (/home/presence/src/Session.js:62:18)
+ERR! 10:43:39 server.js:206     at LineStream.EventEmitter.emit (events.js:95:17)
+ERR! 10:43:39 server.js:206     at LineStream.<anonymous> (_stream_readable.js:746:14)
+ERR! 10:43:39 server.js:206     at LineStream.EventEmitter.emit (events.js:92:17)
+ERR! 10:43:39 server.js:206     at emitReadable_ (_stream_readable.js:408:10)
+ERR! 10:43:39 server.js:206     at emitReadable (_stream_readable.js:404:5)
+ERR! 10:43:39 server.js:206     at readableAddChunk (_stream_readable.js:165:9)
+ERR! 10:43:39 server.js:206  Socket error:  { [Error: This socket has been ended by the other party] code: 'EPIPE' }
+info 10:43:39 server.js:198 Client disconnected: 72.238.76.2
+info 10:43:40 server.js:183 Client connected 72.238.76.2
+info 10:43:40 src/Session.js:119 User: NastyPimp signed on
+info 10:43:43 server.js:198 Client disconnected: 72.238.76.2
+------------- Restart -----------------info 10:44:50 server.js:245 Updating userlist
+info 10:44:50 server.js:117 Start time: Mon Aug 17 2015 10:44:50 GMT-0400 (EDT)
+info 10:44:50 server.js:171 Webserver started on port: 8080
+info 10:44:50 server.js:130 Socket Server listening on port: 5566
+info 10:44:50 server.js:142 SSL Server listening on port: 5567
+------------- Restart -----------------info 10:45:35 server.js:245 Updating userlist
+info 10:45:35 server.js:117 Start time: Mon Aug 17 2015 10:45:35 GMT-0400 (EDT)
+info 10:45:35 server.js:171 Webserver started on port: 8080
+info 10:45:35 server.js:130 Socket Server listening on port: 5566
+info 10:45:35 server.js:142 SSL Server listening on port: 5567
+------------- Restart -----------------info 10:46:53 server.js:245 Updating userlist
+info 10:46:53 server.js:117 Start time: Mon Aug 17 2015 10:46:53 GMT-0400 (EDT)
+info 10:46:53 server.js:171 Webserver started on port: 8080
+info 10:46:53 server.js:130 Socket Server listening on port: 5566
+info 10:46:53 server.js:142 SSL Server listening on port: 5567
+info 10:47:06 server.js:183 Client connected 72.238.76.2
+info 10:47:06 src/Session.js:60 data:   ��_��9>܉(��7֨�S)�f�Sr�J�w?\  v�0�,�(�$��
+info 10:47:06 src/Session.js:61 payload: undefined
+ERR! 10:47:06 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:47:06 src/Session.js:60 data:  � � k j 9 8 � ��2�.�*�&�� � = 5 ��/�+�'�#��	 � � g @ 3 2 � � E D�1�-�)�%�� � < / � A ����   � ]      
+info 10:47:06 src/Session.js:61 payload: undefined
+ERR! 10:47:06 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:47:06 src/Session.js:60 data: www.vrapt.xyz    
+info 10:47:06 src/Session.js:61 payload: undefined
+ERR! 10:47:06 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:47:06 src/Session.js:60 data:  4 2  
+info 10:47:06 src/Session.js:61 payload: undefined
+ERR! 10:47:06 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:47:06 src/Session.js:60 data:      	 
+info 10:47:06 src/Session.js:61 payload: undefined
+ERR! 10:47:06 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:47:06 src/Session.js:60 data:                   #   
+info 10:47:06 src/Session.js:61 payload: undefined
+ERR! 10:47:06 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:47:07 src/Session.js:60 data:        �                                                                                                                                                                                                                      
+info 10:47:07 src/Session.js:61 payload: undefined
+ERR! 10:47:07 src/Session.js:36 Client error (undefined, Unnamed): Unable to parse last message
+ERR! 10:47:07 server.js:205 72.238.76.2
+ERR! 10:47:07 server.js:206 Error: This socket has been ended by the other party
+ERR! 10:47:07 server.js:206     at Socket.writeAfterFIN [as write] (net.js:276:12)
+ERR! 10:47:07 server.js:206     at Session.send (/home/presence/src/Session.js:32:18)
+ERR! 10:47:07 server.js:206     at Session.clientError (/home/presence/src/Session.js:38:10)
+ERR! 10:47:07 server.js:206     at Session.parseMessage (/home/presence/src/Session.js:62:18)
+ERR! 10:47:07 server.js:206     at LineStream.EventEmitter.emit (events.js:95:17)
+ERR! 10:47:07 server.js:206     at LineStream.<anonymous> (_stream_readable.js:746:14)
+ERR! 10:47:07 server.js:206     at LineStream.EventEmitter.emit (events.js:92:17)
+ERR! 10:47:07 server.js:206     at emitReadable_ (_stream_readable.js:408:10)
+ERR! 10:47:07 server.js:206     at emitReadable (_stream_readable.js:404:5)
+ERR! 10:47:07 server.js:206     at readableAddChunk (_stream_readable.js:165:9)
+ERR! 10:47:07 server.js:206  Socket error:  { [Error: This socket has been ended by the other party] code: 'EPIPE' }
+info 10:47:07 server.js:198 Client disconnected: 72.238.76.2
+info 10:47:07 server.js:183 Client connected 72.238.76.2
+info 10:47:07 src/Session.js:119 User: NastyPimp signed on
+info 10:47:12 server.js:198 Client disconnected: 72.238.76.2
+------------- Restart -----------------info 10:47:28 server.js:245 Updating userlist
+info 10:47:28 server.js:117 Start time: Mon Aug 17 2015 10:47:28 GMT-0400 (EDT)
+info 10:47:28 server.js:171 Webserver started on port: 8080
+info 10:47:28 server.js:130 Socket Server listening on port: 5566
+info 10:47:28 server.js:142 SSL Server listening on port: 5567
+info 10:47:35 server.js:183 Client connected 72.238.76.2
+info 10:47:35 server.js:198 Client disconnected: 72.238.76.2
+------------- Restart -----------------info 10:47:56 server.js:245 Updating userlist
+info 10:47:56 server.js:117 Start time: Mon Aug 17 2015 10:47:56 GMT-0400 (EDT)
+info 10:47:56 server.js:171 Webserver started on port: 8080
+info 10:47:56 server.js:130 Socket Server listening on port: 5566
+info 10:47:56 server.js:142 SSL Server listening on port: 5567
+info 10:48:02 server.js:183 Client connected 72.238.76.2
+info 10:48:02 src/Session.js:60 data:   ��X��m�oq:���u@���ZX!���eƬ  v�0�,�(�$��
+info 10:48:02 src/Session.js:61 payload: undefined
+ERR! 10:48:02 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:48:02 src/Session.js:60 data:  � � k j 9 8 � ��2�.�*�&�� � = 5 ��/�+�'�#��	 � � g @ 3 2 � � E D�1�-�)�%�� � < / � A ����   � ]      
+info 10:48:02 src/Session.js:61 payload: undefined
+ERR! 10:48:02 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:48:02 src/Session.js:60 data: www.vrapt.xyz    
+info 10:48:02 src/Session.js:61 payload: undefined
+ERR! 10:48:02 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:48:02 src/Session.js:60 data:  4 2  
+info 10:48:02 src/Session.js:61 payload: undefined
+ERR! 10:48:02 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:48:02 src/Session.js:60 data:      	 
+info 10:48:02 src/Session.js:61 payload: undefined
+ERR! 10:48:02 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:48:02 src/Session.js:60 data:                   #   
+info 10:48:02 src/Session.js:61 payload: undefined
+ERR! 10:48:02 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:48:02 src/Session.js:60 data:        �                                                                                                                                                                                                                      
+info 10:48:02 src/Session.js:61 payload: undefined
+ERR! 10:48:02 src/Session.js:36 Client error (undefined, Unnamed): Unable to parse last message
+ERR! 10:48:02 server.js:205 72.238.76.2
+ERR! 10:48:02 server.js:206 Error: This socket has been ended by the other party
+ERR! 10:48:02 server.js:206     at Socket.writeAfterFIN [as write] (net.js:276:12)
+ERR! 10:48:02 server.js:206     at Session.send (/home/presence/src/Session.js:32:18)
+ERR! 10:48:02 server.js:206     at Session.clientError (/home/presence/src/Session.js:38:10)
+ERR! 10:48:02 server.js:206     at Session.parseMessage (/home/presence/src/Session.js:62:18)
+ERR! 10:48:02 server.js:206     at LineStream.EventEmitter.emit (events.js:95:17)
+ERR! 10:48:02 server.js:206     at LineStream.<anonymous> (_stream_readable.js:746:14)
+ERR! 10:48:02 server.js:206     at LineStream.EventEmitter.emit (events.js:92:17)
+ERR! 10:48:02 server.js:206     at emitReadable_ (_stream_readable.js:408:10)
+ERR! 10:48:02 server.js:206     at emitReadable (_stream_readable.js:404:5)
+ERR! 10:48:02 server.js:206     at readableAddChunk (_stream_readable.js:165:9)
+ERR! 10:48:02 server.js:206  Socket error:  { [Error: This socket has been ended by the other party] code: 'EPIPE' }
+info 10:48:02 server.js:198 Client disconnected: 72.238.76.2
+info 10:48:03 server.js:183 Client connected 72.238.76.2
+info 10:48:03 src/Session.js:119 User: NastyPimp signed on
+info 10:48:08 server.js:198 Client disconnected: 72.238.76.2
+------------- Restart -----------------info 10:48:36 server.js:245 Updating userlist
+info 10:48:36 server.js:117 Start time: Mon Aug 17 2015 10:48:36 GMT-0400 (EDT)
+info 10:48:36 server.js:171 Webserver started on port: 8080
+info 10:48:36 server.js:130 Socket Server listening on port: 5566
+info 10:48:36 server.js:142 SSL Server listening on port: 5567
+info 10:48:46 server.js:183 Client connected 72.238.76.2
+info 10:48:46 src/Session.js:60 data:   �Ҷ-���%B&�Ǣ`1�6)�_*�C��?�  v�0�,�(�$��
+info 10:48:46 src/Session.js:61 payload: undefined
+ERR! 10:48:46 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:48:46 src/Session.js:60 data:  � � k j 9 8 � ��2�.�*�&�� � = 5 ��/�+�'�#��	 � � g @ 3 2 � � E D�1�-�)�%�� � < / � A ����   � ]      
+info 10:48:46 src/Session.js:61 payload: undefined
+ERR! 10:48:46 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:48:46 src/Session.js:60 data: www.vrapt.xyz    
+info 10:48:46 src/Session.js:61 payload: undefined
+ERR! 10:48:46 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:48:46 src/Session.js:60 data:  4 2  
+info 10:48:46 src/Session.js:61 payload: undefined
+ERR! 10:48:46 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:48:46 src/Session.js:60 data:      	 
+info 10:48:46 src/Session.js:61 payload: undefined
+ERR! 10:48:46 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:48:46 src/Session.js:60 data:                   #   
+info 10:48:46 src/Session.js:61 payload: undefined
+ERR! 10:48:46 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:48:46 src/Session.js:60 data:        �                                                                                                                                                                                                                      
+info 10:48:46 src/Session.js:61 payload: undefined
+ERR! 10:48:46 src/Session.js:36 Client error (undefined, Unnamed): Unable to parse last message
+ERR! 10:48:46 server.js:205 72.238.76.2
+ERR! 10:48:46 server.js:206 Error: This socket has been ended by the other party
+ERR! 10:48:46 server.js:206     at Socket.writeAfterFIN [as write] (net.js:276:12)
+ERR! 10:48:46 server.js:206     at Session.send (/home/presence/src/Session.js:32:18)
+ERR! 10:48:46 server.js:206     at Session.clientError (/home/presence/src/Session.js:38:10)
+ERR! 10:48:46 server.js:206     at Session.parseMessage (/home/presence/src/Session.js:62:18)
+ERR! 10:48:46 server.js:206     at LineStream.EventEmitter.emit (events.js:95:17)
+ERR! 10:48:46 server.js:206     at LineStream.<anonymous> (_stream_readable.js:746:14)
+ERR! 10:48:46 server.js:206     at LineStream.EventEmitter.emit (events.js:92:17)
+ERR! 10:48:46 server.js:206     at emitReadable_ (_stream_readable.js:408:10)
+ERR! 10:48:46 server.js:206     at emitReadable (_stream_readable.js:404:5)
+ERR! 10:48:46 server.js:206     at readableAddChunk (_stream_readable.js:165:9)
+ERR! 10:48:46 server.js:206  Socket error:  { [Error: This socket has been ended by the other party] code: 'EPIPE' }
+info 10:48:46 server.js:198 Client disconnected: 72.238.76.2
+info 10:48:47 server.js:183 Client connected 72.238.76.2
+info 10:48:47 src/Session.js:119 User: NastyPimp signed on
+info 10:49:07 server.js:198 Client disconnected: 72.238.76.2
+info 10:49:15 server.js:183 Client connected 72.238.76.2
+info 10:49:15 src/Session.js:60 data:   �\[�A�]�@Z	hD(��n/��l�G����!  v�0�,�(�$��
+info 10:49:15 src/Session.js:61 payload: undefined
+ERR! 10:49:15 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:49:15 src/Session.js:60 data:  � � k j 9 8 � ��2�.�*�&�� � = 5 ��/�+�'�#��	 � � g @ 3 2 � � E D�1�-�)�%�� � < / � A ����   � ]      
+info 10:49:15 src/Session.js:61 payload: undefined
+ERR! 10:49:15 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:49:15 src/Session.js:60 data: www.vrapt.xyz    
+info 10:49:15 src/Session.js:61 payload: undefined
+ERR! 10:49:15 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:49:15 src/Session.js:60 data:  4 2  
+info 10:49:15 src/Session.js:61 payload: undefined
+ERR! 10:49:15 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:49:15 src/Session.js:60 data:      	 
+info 10:49:15 src/Session.js:61 payload: undefined
+ERR! 10:49:15 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:49:15 src/Session.js:60 data:                   #   
+info 10:49:15 src/Session.js:61 payload: undefined
+ERR! 10:49:15 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:49:15 src/Session.js:60 data:        �                                                                                                                                                                                                                      
+info 10:49:15 src/Session.js:61 payload: undefined
+ERR! 10:49:15 src/Session.js:36 Client error (undefined, Unnamed): Unable to parse last message
+ERR! 10:49:15 server.js:205 72.238.76.2
+ERR! 10:49:15 server.js:206 Error: This socket has been ended by the other party
+ERR! 10:49:15 server.js:206     at Socket.writeAfterFIN [as write] (net.js:276:12)
+ERR! 10:49:15 server.js:206     at Session.send (/home/presence/src/Session.js:32:18)
+ERR! 10:49:15 server.js:206     at Session.clientError (/home/presence/src/Session.js:38:10)
+ERR! 10:49:15 server.js:206     at Session.parseMessage (/home/presence/src/Session.js:62:18)
+ERR! 10:49:15 server.js:206     at LineStream.EventEmitter.emit (events.js:95:17)
+ERR! 10:49:15 server.js:206     at LineStream.<anonymous> (_stream_readable.js:746:14)
+ERR! 10:49:15 server.js:206     at LineStream.EventEmitter.emit (events.js:92:17)
+ERR! 10:49:15 server.js:206     at emitReadable_ (_stream_readable.js:408:10)
+ERR! 10:49:15 server.js:206     at emitReadable (_stream_readable.js:404:5)
+ERR! 10:49:15 server.js:206     at readableAddChunk (_stream_readable.js:165:9)
+ERR! 10:49:15 server.js:206  Socket error:  { [Error: This socket has been ended by the other party] code: 'EPIPE' }
+info 10:49:15 server.js:198 Client disconnected: 72.238.76.2
+info 10:49:16 server.js:183 Client connected 72.238.76.2
+info 10:49:16 src/Session.js:119 User: NastyPimp signed on
+info 10:49:20 server.js:198 Client disconnected: 72.238.76.2
+------------- Restart -----------------info 10:51:19 server.js:245------------- Restart -----------------info 10:55:58 server.js:245 Updating userlist
+info 10:55:58 server.js:117 Start time: Mon Aug 17 2015 10:55:58 GMT-0400 (EDT)
+info 10:55:58 server.js:130 Socket Server listening on port: 5566
+info 10:55:58 server.js:142 SSL Server listening on port: 5567
+info 10:56:29 server.js:183 Client connected 72.238.76.2
+info 10:56:29 src/Session.js:60 data:   ���Z��'B�|�v:_E~��@%�nS�B��w䵚9*  v�0�,�(�$��
+info 10:56:29 src/Session.js:61 payload: undefined
+ERR! 10:56:29 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:56:29 src/Session.js:60 data:  � � k j 9 8 � ��2�.�*�&�� � = 5 ��/�+�'�#��	 � � g @ 3 2 � � E D�1�-�)�%�� � < / � A ����   � ]      
+info 10:56:29 src/Session.js:61 payload: undefined
+ERR! 10:56:29 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:56:29 src/Session.js:60 data: www.vrapt.xyz    
+info 10:56:29 src/Session.js:61 payload: undefined
+ERR! 10:56:29 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:56:29 src/Session.js:60 data:  4 2  
+info 10:56:29 src/Session.js:61 payload: undefined
+ERR! 10:56:29 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:56:29 src/Session.js:60 data:      	 
+info 10:56:29 src/Session.js:61 payload: undefined
+ERR! 10:56:29 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:56:29 src/Session.js:60 data:                   #   
+info 10:56:29 src/Session.js:61 payload: undefined
+ERR! 10:56:29 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:56:29 src/Session.js:60 data:        �                                                                                                                                                                                                                      
+info 10:56:29 src/Session.js:61 payload: undefined
+ERR! 10:56:29 src/Session.js:36 Client error (undefined, Unnamed): Unable to parse last message
+ERR! 10:56:29 server.js:205 72.238.76.2
+ERR! 10:56:29 server.js:206 Error: This socket has been ended by the other party
+ERR! 10:56:29 server.js:206     at Socket.writeAfterFIN [as write] (net.js:276:12)
+ERR! 10:56:29 server.js:206     at Session.send (/home/presence/src/Session.js:32:18)
+ERR! 10:56:29 server.js:206     at Session.clientError (/home/presence/src/Session.js:38:10)
+ERR! 10:56:29 server.js:206     at Session.parseMessage (/home/presence/src/Session.js:62:18)
+ERR! 10:56:29 server.js:206     at LineStream.EventEmitter.emit (events.js:95:17)
+ERR! 10:56:29 server.js:206     at LineStream.<anonymous> (_stream_readable.js:746:14)
+ERR! 10:56:29 server.js:206     at LineStream.EventEmitter.emit (events.js:92:17)
+ERR! 10:56:29 server.js:206     at emitReadable_ (_stream_readable.js:408:10)
+ERR! 10:56:29 server.js:206     at emitReadable (_stream_readable.js:404:5)
+ERR! 10:56:29 server.js:206     at readableAddChunk (_stream_readable.js:165:9)
+ERR! 10:56:29 server.js:206  Socket error:  { [Error: This socket has been ended by the other party] code: 'EPIPE' }
+info 10:56:29 server.js:198 Client disconnected: 72.238.76.2
+info 10:56:30 server.js:183 Client connected 72.238.76.2
+info 10:56:30 src/Session.js:119 User: NastyPimp signed on
+info 10:56:35 server.js:198 Client disconnected: 72.238.76.2
+info 10:56:45 server.js:183 Client connected 72.238.76.2
+info 10:56:45 src/Session.js:60 data:   �|X(���qcP4=��l�/���\P�M;�  v�0�,�(�$��
+info 10:56:45 src/Session.js:61 payload: undefined
+ERR! 10:56:45 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:56:45 src/Session.js:60 data:  � � k j 9 8 � ��2�.�*�&�� � = 5 ��/�+�'�#��	 � � g @ 3 2 � � E D�1�-�)�%�� � < / � A ����   � ]      
+info 10:56:45 src/Session.js:61 payload: undefined
+ERR! 10:56:45 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:56:45 src/Session.js:60 data: www.vrapt.xyz    
+info 10:56:45 src/Session.js:61 payload: undefined
+ERR! 10:56:45 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:56:45 src/Session.js:60 data:  4 2  
+info 10:56:45 src/Session.js:61 payload: undefined
+ERR! 10:56:45 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:56:45 src/Session.js:60 data:      	 
+info 10:56:45 src/Session.js:61 payload: undefined
+ERR! 10:56:45 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:56:45 src/Session.js:60 data:                   #   
+info 10:56:45 src/Session.js:61 payload: undefined
+ERR! 10:56:45 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 10:56:45 src/Session.js:60 data:        �                                                                                                                                                                                                                      
+info 10:56:45 src/Session.js:61 payload: undefined
+ERR! 10:56:45 src/Session.js:36 Client error (undefined, Unnamed): Unable to parse last message
+ERR! 10:56:45 server.js:205 72.238.76.2
+ERR! 10:56:45 server.js:206 Error: This socket has been ended by the other party
+ERR! 10:56:45 server.js:206     at Socket.writeAfterFIN [as write] (net.js:276:12)
+ERR! 10:56:45 server.js:206     at Session.send (/home/presence/src/Session.js:32:18)
+ERR! 10:56:45 server.js:206     at Session.clientError (/home/presence/src/Session.js:38:10)
+ERR! 10:56:45 server.js:206     at Session.parseMessage (/home/presence/src/Session.js:62:18)
+ERR! 10:56:45 server.js:206     at LineStream.EventEmitter.emit (events.js:95:17)
+ERR! 10:56:45 server.js:206     at LineStream.<anonymous> (_stream_readable.js:746:14)
+ERR! 10:56:45 server.js:206     at LineStream.EventEmitter.emit (events.js:92:17)
+ERR! 10:56:45 server.js:206     at emitReadable_ (_stream_readable.js:408:10)
+ERR! 10:56:45 server.js:206     at emitReadable (_stream_readable.js:404:5)
+ERR! 10:56:45 server.js:206     at readableAddChunk (_stream_readable.js:165:9)
+ERR! 10:56:45 server.js:206  Socket error:  { [Error: This socket has been ended by the other party] code: 'EPIPE' }
+info 10:56:45 server.js:198 Client disconnected: 72.238.76.2
+info 10:56:46 server.js:183 Client connected 72.238.76.2
+info 10:56:46 src/Session.js:119 User: NastyPimp signed on
+------------- Restart -----------------info 11:22:43 server.js:245 Updating userlist
+info 11:22:43 server.js:117 Start time: Mon Aug 17 2015 11:22:43 GMT-0400 (EDT)
+info 11:22:43 server.js:130 Socket Server listening on port: 5566
+info 11:22:43 server.js:142 SSL Server listening on port: 5567
+info 11:23:14 server.js:183 Client connected 72.238.76.2
+info 11:23:14 src/Session.js:60 data:   ��V�Sa�.�M�sQ�+�QF\Et��ЮW�9��z  v�0�,�(�$��
+info 11:23:14 src/Session.js:61 payload: undefined
+ERR! 11:23:14 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 11:23:14 src/Session.js:60 data:  � � k j 9 8 � ��2�.�*�&�� � = 5 ��/�+�'�#��	 � � g @ 3 2 � � E D�1�-�)�%�� � < / � A ����   � ]      
+info 11:23:14 src/Session.js:61 payload: undefined
+ERR! 11:23:14 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 11:23:14 src/Session.js:60 data: www.vrapt.xyz    
+info 11:23:14 src/Session.js:61 payload: undefined
+ERR! 11:23:14 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 11:23:14 src/Session.js:60 data:  4 2  
+info 11:23:14 src/Session.js:61 payload: undefined
+ERR! 11:23:14 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 11:23:14 src/Session.js:60 data:      	 
+info 11:23:14 src/Session.js:61 payload: undefined
+ERR! 11:23:14 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 11:23:14 src/Session.js:60 data:                   #   
+info 11:23:14 src/Session.js:61 payload: undefined
+ERR! 11:23:14 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 11:23:14 src/Session.js:60 data:        �                                                                                                                                                                                                                      
+info 11:23:14 src/Session.js:61 payload: undefined
+ERR! 11:23:14 src/Session.js:36 Client error (undefined, Unnamed): Unable to parse last message
+ERR! 11:23:14 server.js:205 72.238.76.2
+ERR! 11:23:14 server.js:206 Error: This socket has been ended by the other party
+ERR! 11:23:14 server.js:206     at Socket.writeAfterFIN [as write] (net.js:276:12)
+ERR! 11:23:14 server.js:206     at Session.send (/home/presence/src/Session.js:32:18)
+ERR! 11:23:14 server.js:206     at Session.clientError (/home/presence/src/Session.js:38:10)
+ERR! 11:23:14 server.js:206     at Session.parseMessage (/home/presence/src/Session.js:62:18)
+ERR! 11:23:14 server.js:206     at LineStream.EventEmitter.emit (events.js:95:17)
+ERR! 11:23:14 server.js:206     at LineStream.<anonymous> (_stream_readable.js:746:14)
+ERR! 11:23:14 server.js:206     at LineStream.EventEmitter.emit (events.js:92:17)
+ERR! 11:23:14 server.js:206     at emitReadable_ (_stream_readable.js:408:10)
+ERR! 11:23:14 server.js:206     at emitReadable (_stream_readable.js:404:5)
+ERR! 11:23:14 server.js:206     at readableAddChunk (_stream_readable.js:165:9)
+ERR! 11:23:14 server.js:206  Socket error:  { [Error: This socket has been ended by the other party] code: 'EPIPE' }
+info 11:23:14 server.js:198 Client disconnected: 72.238.76.2
+info 11:23:15 server.js:183 Client connected 72.238.76.2
+info 11:23:15 src/Session.js:119 User: NastyPimp signed on
+info 11:23:19 server.js:198 Client disconnected: 72.238.76.2
+info 11:23:28 server.js:183 Client connected 72.238.76.2
+info 11:23:28 src/Session.js:60 data:   ��	?����.`d-Nt�k����rF�0c�X�F  v�0�,�(�$��
+info 11:23:28 src/Session.js:61 payload: undefined
+ERR! 11:23:28 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 11:23:28 src/Session.js:60 data:  � � k j 9 8 � ��2�.�*�&�� � = 5 ��/�+�'�#��	 � � g @ 3 2 � � E D�1�-�)�%�� � < / � A ����   � ]      
+info 11:23:28 src/Session.js:61 payload: undefined
+ERR! 11:23:28 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 11:23:28 src/Session.js:60 data: www.vrapt.xyz    
+info 11:23:28 src/Session.js:61 payload: undefined
+ERR! 11:23:28 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 11:23:28 src/Session.js:60 data:  4 2  
+info 11:23:28 src/Session.js:61 payload: undefined
+ERR! 11:23:28 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 11:23:28 src/Session.js:60 data:      	 
+info 11:23:28 src/Session.js:61 payload: undefined
+ERR! 11:23:28 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 11:23:28 src/Session.js:60 data:                   #   
+info 11:23:28 src/Session.js:61 payload: undefined
+ERR! 11:23:28 src/Session.js:36 Client error (72.238.76.2, Unnamed): Unable to parse last message
+info 11:23:28 src/Session.js:60 data:        �                                                                                                                                                                                                                      
+info 11:23:28 src/Session.js:61 payload: undefined
+ERR! 11:23:28 src/Session.js:36 Client error (undefined, Unnamed): Unable to parse last message
+ERR! 11:23:28 server.js:205 72.238.76.2
+ERR! 11:23:28 server.js:206 Error: This socket has been ended by the other party
+ERR! 11:23:28 server.js:206     at Socket.writeAfterFIN [as write] (net.js:276:12)
+ERR! 11:23:28 server.js:206     at Session.send (/home/presence/src/Session.js:32:18)
+ERR! 11:23:28 server.js:206     at Session.clientError (/home/presence/src/Session.js:38:10)
+ERR! 11:23:28 server.js:206     at Session.parseMessage (/home/presence/src/Session.js:62:18)
+ERR! 11:23:28 server.js:206     at LineStream.EventEmitter.emit (events.js:95:17)
+ERR! 11:23:28 server.js:206     at LineStream.<anonymous> (_stream_readable.js:746:14)
+ERR! 11:23:28 server.js:206     at LineStream.EventEmitter.emit (events.js:92:17)
+ERR! 11:23:28 server.js:206     at emitReadable_ (_stream_readable.js:408:10)
+ERR! 11:23:28 server.js:206     at emitReadable (_stream_readable.js:404:5)
+ERR! 11:23:28 server.js:206     at readableAddChunk (_stream_readable.js:165:9)
+ERR! 11:23:28 server.js:206  Socket error:  { [Error: This socket has been ended by the other party] code: 'EPIPE' }
+info 11:23:28 server.js:198 Client disconnected: 72.238.76.2
+info 11:23:29 server.js:183 Client connected 72.238.76.2
+info 11:23:29 src/Session.js:119 User: NastyPimp signed on
+info 11:23:34 server.js:198 Client disconnected: 72.238.76.2
+------------- Restart -----------------info 11:24:14 server.js:245 Updating userlist
+info 11:24:14 server.js:117 Start time: Mon Aug 17 2015 11:24:14 GMT-0400 (EDT)
+info 11:24:14 server.js:130 Socket Server listening on port: 5566
+info 11:24:14 server.js:142 SSL Server listening on port: 5567
+------------- Restart -----------------info 11:29:05 server.js:245 Updating userlist
+info 11:29:05 server.js:117 Start time: Mon Aug 17 2015 11:29:05 GMT-0400 (EDT)
+info 11:29:05 server.js:130 Socket Server listening on port: 5566
+info 11:29:05 server.js:142 SSL Server listening on port: 5567
+info 11:34:05 server.js:245 Updating userlist
+info 11:39:05 server.js:245 Updating userlist
